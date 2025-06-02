@@ -110,12 +110,7 @@ Have questions or suggestions? Feel free to:
 - Open an [issue](https://github.com/Cyrus-DS/YourRepositoryName/issues)
 - Connect with me on [LinkedIn](linkedin.com/in/cyrus-wambugu-b9476195)
 - Visit my [GitHub profile](github.com/Cyrus-DS) for more projects
-
-
+- 
 Feel free to open an issue or submit a pull request if you'd like to contribute or discuss improvements!
 
 ```
-
-
-
-
